@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on an expiration management application in stores that manages short-dated products, as well as refactoring my various production applications for performance optimization and language practices with TypeScript.
 - 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-notrekash.vercel.app/)
-- 🌱 I’m currently learning on TypeScript, exploring new frameworks, deepening my knowledge on unit testing, backend development with Express.js and MongoDB Atlas, and discovering the principles of CI/CD.
+- 🌱 I’m currently learning on Vue.js, deepening my knowledge on unit testing, backend development with Express.js and MongoDB Atlas, and discovering the principles of CI/CD.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joris-benmehal-6266a427a/)
 - ⚡ Fun fact: I love combining my coding skills with my passion for hiking and trekking activities
 - 📝 Note: While my public commit history may seem sparse, I'm actively involved in several private projects.
