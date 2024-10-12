@@ -34,7 +34,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,redux,pinia,nodejs,express,mongodb,tailwind,sass,git,github,jest,vitest,figma,vercel,figma,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,redux,pinia,nodejs,express,mongodb,tailwind,sass,git,github,githubactions,jest,vitest,figma,vercel,figma,xd)](https://skillicons.dev)
 
 ###
 
