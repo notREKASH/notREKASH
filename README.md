@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Joris / Rekash from France<br><br>- 🔭 I’m currently working on a boilerplate solution designed to help corporations reduce the time needed for creating, designing, and deploying production-ready applications.<br>- 📚 I'm continuously learning new technologies and exploring the world of stock exchanges.<br>- 💬 Feel free to reach out if you need insights on JavaScript application development, polymorphic backend architectures, or project ideas.<br>- ⚡ Fun fact: I code more efficiently with music playing</p>
+<p align="left">I'm Joris / notREKASH from France<br><br>- 🔭 I’m currently working on a boilerplate solution designed to help corporations reduce the time needed for creating, designing, and deploying production-ready applications.<br>- 📚 I'm continuously learning new technologies and exploring the world of stock exchanges.<br>- 💬 Feel free to reach out if you need insights on JavaScript application development, polymorphic backend architectures, or project ideas.<br>- ⚡ Fun fact: I code more efficiently with music playing</p>
 
 ###
 
