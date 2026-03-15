@@ -1,97 +1,84 @@
-# Joris Benmehal 👋
+<div align="center">
 
-**J'aide les patrons de PME à sortir de l'opérationnel** → Je construis des applications métier sur-mesure qui libèrent du temps et génèrent des gains mesurables.
+# Joris Benmehal
 
-📍 Basé à Ornans (Doubs) • J'interviens en Franche-Comté
+**Full-Stack Developer · Self-taught · Builder**
 
----
-
-## 🎯 Ce que je fais
-
-**Cible** : Patrons / Dirigeants de TPE-PME (5-50 personnes)  
-**Zone** : Doubs, Franche-Comté (Pontarlier, Besançon, Ornans, Morteau)
-
-**Le problème que je résous** :
-Vous passez vos journées à coordonner, vérifier, répéter. Pendant ce temps, vous n'avancez pas sur ce qui compte : clients, croissance, stratégie.
-
-**Ce que je construis** :
-- 📱 Applications métier sur-mesure
-- 📊 Tableaux de bord personnalisés
-- ⚙️ Automatisation de process
+`Le code c'est un outil. Ce qui m'intéresse c'est comprendre les systèmes et construire ce qui n'existe pas.`
 
 ---
 
-## 💡 Ma méthode : IMPACT
+### 260 000+ lignes de code · 7 projets majeurs · ~40 side projects · Tout en 2 ans.
 
-Contrairement aux consultants qui livrent des PowerPoint, je livre une **application en production**.
-
-| Étape | Description |
-|-------|-------------|
-| **I**mmersion | Je viens sur place, j'observe le réel |
-| **M**esure | Je chiffre les pertes en €/an |
-| **P**riorisation | J'attaque ce qui coûte le plus |
-| **A**ction | V1 livrée en 2-4 semaines |
-| **C**o-construction | Construit avec vos équipes |
-| **T**ransfert | Vous êtes autonomes |
+</div>
 
 ---
 
-## 📊 Cas concret
+## L'histoire courte
 
-### 🏭 Industrie agroalimentaire (Vallée de la Loue)
-**Problème** : Coordination d'équipes — 180 demandes/jour, 3-7 min perdues par demande  
-**Solution** : Application de notification temps réel  
-**Résultat** : **78 000€/an** économisés, temps par demande : 4 min → 1 min
+Pas de Master en informatique. Un accident de la route, 4 ans de convalescence, et une conviction : fin 2022, j'ai ouvert un éditeur et j'ai commencé à coder. Seul. Depuis, j'ai pas arrêté.
 
 ---
 
-## 🛠️ Stack technique
+## Ce que je build
 
-**Frontend** : React, Next.js, TypeScript, Tailwind  
-**Mobile** : React Native (Expo)  
-**Backend** : Node.js, PostgreSQL, Prisma  
-**DevOps** : Docker, GitHub Actions
+| Projet | Description | Stack | Lignes |
+|--------|-------------|-------|--------|
+| **Road and Trip** | Plateforme SaaS location de vans — 6 apps, 8 packages, 56 modèles Prisma, Stripe, i18n FR/EN, auto-avenant OTP, architecture TTC-first | TypeScript, Express 5, Next.js, Prisma, PostgreSQL, Stripe, Turborepo, Coolify | 158 000 |
+| **Rental Service** | App check-in/check-out véhicules — annotation dommages canvas, upload chunké, 28 types de photos, RBAC, bilingue | Next.js, Prisma, Cloudflare R2, Konva.js, sharp, NextAuth | 36 300 |
+| **Call Cariste** | App d'appel cariste en entrepôt — bulle flottante Android native (Kotlin) sur ERP IFS, Kanban temps réel SSE, analytics managers | React, React Native, Kotlin, Express, Supabase, SSE | 17 000 |
+| **JobScout** | SaaS gestion de candidatures — simulation d'entretien voix IA (ElevenLabs), génération lettres IA (GPT-4o), extension Chrome | Next.js, Prisma, Stripe, OpenAI, ElevenLabs, Vercel AI SDK | 18 500 |
+| **Golden Frouze** | Bot de veille emploi — 10 scrapers Playwright, scoring 2 passes Claude API, géocodage offline 4265 villes suisses, Discord webhooks | Python, Playwright, Claude API, SQLite, Docker | 4 300 |
+| **Chez Valérie** | App dépôt-vente + site vitrine — réservation stands, admin Cloudinary, SSG/ISR, formulaire conditionnel Zod | Next.js, Express, MongoDB, Cloudinary, JWT | 8 970 |
+| **BJ-TrekLife** | Blog randonnée — tracés GPX interactifs Leaflet, MDX, SEO complet | Next.js, Leaflet, MDX, Velite, Vercel | ~17 000 |
 
----
-
-## ❌ Ce que je ne fais PAS
-
-- Projets de 6-12 mois
-- PowerPoint sans implémentation
-- Logiciels génériques que personne n'utilise
-- Solutions imposées d'en haut
-
-## ✅ Ce que je fais
-
-- V1 en 2-4 semaines
-- Application en production
-- Co-construit avec le terrain
-- Gains mesurés avant/après
+> \+ une quarantaine de side projects, automations, scrapers, tests et sites web.
 
 ---
 
-## 📈 Résultats typiques
+## Stack
 
-- **60-75%** de réduction des pertes
-- **3-5 mois** de retour sur investissement
-- **Adoption naturelle** (pas imposée)
-
----
-
-## 📫 Contact
-
-- 🌐 [benmehal-consulting.com](https://benmehal-consulting.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/benmehal-joris/)
-- 📞 +33 7 67 82 71 51
-
----
-
-## 🧭 Parcours
-
-- 4 ans de développement (web, mobile, APIs)
-- Expérience terrain (Leclerc, industrie)
-- **Double compétence** : je comprends le métier ET je code la solution
+```
+Frontend    → React · Next.js · TypeScript · Tailwind · Radix UI · React Native
+Backend     → Node.js · Express · Prisma · PostgreSQL · MongoDB · Supabase
+Python      → Playwright · Selenium · BeautifulSoup · httpx
+ML          → Detectron2 (prévu — 4 000 images, 85% précision)
+Infra       → Docker · Coolify · Vercel · Railway · Cloudflare R2 · GitHub Actions
+Paiement    → Stripe (checkout, webhooks, captures différées, remboursements)
+IA          → Claude API · OpenAI · ElevenLabs · Vercel AI SDK
+Autres      → Kotlin (modules natifs Android) · SSE · WebSockets · PWA
+```
 
 ---
 
-**Philosophie** : Le code est un moyen, pas une fin. L'objectif, c'est l'impact opérationnel mesurable.
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=notREKASH&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=notREKASH&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notREKASH&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## Philosophie
+
+```
+Ship first. Iterate fast. Learn always.
+```
+
+Je ne code pas pour coder. Je code pour comprendre des systèmes et résoudre des problèmes que j'ai vécus moi-même — en entrepôt, en agence de location, sur le terrain.
+
+Chaque projet ici est né d'un vrai problème. Pas d'un tuto.
+
+---
+
+<div align="center">
+
+**[LinkedIn](https://www.linkedin.com/in/benmehaljoris)** · **[Portfolio](https://lnkd.in/eFxzk596)** · **[BJ-TrekLife](https://www.bj-treklife.fr)**
+
+</div>
