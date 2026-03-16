@@ -79,6 +79,6 @@ Every project here was born from a real problem. Not a tutorial.
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/benmehaljoris)** · **[Portfolio](https://lnkd.in/eFxzk596)** · **[BJ-TrekLife](https://www.bj-treklife.fr)**
+**[LinkedIn](https://www.linkedin.com/in/benmehaljoris)** · **[Portfolio](https://jorisbenmehal.vercel.app/)** · **[BJ-TrekLife](https://www.bj-treklife.fr)**
 
 </div>
