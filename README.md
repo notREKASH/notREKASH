@@ -22,15 +22,15 @@ No CS degree. A car accident, 4 years of recovery, and a decision: late 2022, I 
 
 ## What I build
 
-| Project | Description | Stack | Lines |
-|---------|-------------|-------|-------|
-| **Road and Trip** | Van rental SaaS platform — 6 apps, 8 shared packages, 56 Prisma models, Stripe payments, i18n FR/EN, OTP-signed amendments, TTC-first pricing architecture | TypeScript, Express 5, Next.js, Prisma, PostgreSQL, Stripe, Turborepo, Coolify | 158,000 |
-| **Rental Service** | Vehicle check-in/check-out app — canvas damage annotation, chunked upload, 28 photo types, RBAC, bilingual | Next.js, Prisma, Cloudflare R2, Konva.js, sharp, NextAuth | 36,300 |
-| **Call Cariste** | Warehouse forklift call app — native Android floating bubble (Kotlin) over IFS ERP, real-time SSE Kanban, manager analytics | React, React Native, Kotlin, Express, Supabase, SSE | 17,000 |
-| **JobScout** | Job search management SaaS — AI voice interview simulation (ElevenLabs), AI cover letters (GPT-4o), Chrome extension | Next.js, Prisma, Stripe, OpenAI, ElevenLabs, Vercel AI SDK | 18,500 |
-| **Golden Frouze** | Job monitoring bot — 10 Playwright scrapers, 2-pass Claude API scoring, offline geocoding for 4,265 Swiss cities, Discord webhooks | Python, Playwright, Claude API, SQLite, Docker | 4,300 |
-| **Chez Valérie** | Consignment store app + website — stand booking, Cloudinary admin, SSG/ISR, conditional Zod forms | Next.js, Express, MongoDB, Cloudinary, JWT | 8,970 |
-| **BJ-TrekLife** | Hiking blog — interactive GPX trail maps (Leaflet), MDX content, full SEO | Next.js, Leaflet, MDX, Velite, Vercel | ~17,000 |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Road and Trip** | Van rental SaaS platform — 6 apps, 8 shared packages, 56 Prisma models, Stripe payments, i18n FR/EN, OTP-signed amendments, TTC-first pricing architecture | TypeScript, Express 5, Next.js, Prisma, PostgreSQL, Stripe, Turborepo, Coolify |
+| **Rental Service** | Vehicle check-in/check-out app — canvas damage annotation, chunked upload, 28 photo types, RBAC, bilingual | Next.js, Prisma, Cloudflare R2, Konva.js, sharp, NextAuth |
+| **Call Cariste** | Warehouse forklift call app — native Android floating bubble (Kotlin) over IFS ERP, real-time SSE Kanban, manager analytics | React, React Native, Kotlin, Express, Supabase, SSE |
+| **JobScout** | Job search management SaaS — AI voice interview simulation (ElevenLabs), AI cover letters (GPT-4o), Chrome extension | Next.js, Prisma, Stripe, OpenAI, ElevenLabs, Vercel AI SDK |
+| **Golden Frouze** | Job monitoring bot — 10 Playwright scrapers, 2-pass Claude API scoring, offline geocoding for 4,265 Swiss cities, Discord webhooks | Python, Playwright, Claude API, SQLite, Docker |
+| **Chez Valérie** | Consignment store app + website — stand booking, Cloudinary admin, SSG/ISR, conditional Zod forms | Next.js, Express, MongoDB, Cloudinary, JWT |
+| **BJ-TrekLife** | Hiking blog — interactive GPX trail maps (Leaflet), MDX content, full SEO | Next.js, Leaflet, MDX, Velite, Vercel |
 
 > \+ around 40 side projects, automations, scrapers, experiments and websites.
 
